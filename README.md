@@ -29,10 +29,8 @@ I currently serve as an **Education Research Faculty member and Professional Lea
 
 ### 🌍 Earth Inquiry Lab Projects
 Applied geospatial tools designed to support inquiry-based learning about real landscapes and real questions.
-
-- **Wildfire Inquiry Explorer**  
+- **Wildfire Inquiry Explorer** [jupyter notebook](https://github.com/asivitskis/EarthInquiryLab/blob/main/1%20-%20Burn%20Severity%20Mapping%20with%20LeafMap/EI1%20-%20Wildfire%20Analysis%20Lesson.ipynb)
   An interactive mapping project to explore wildfire history, patterns, and impacts across place.  
-  → [jupyter notebook](https://github.com/asivitskis/EarthInquiryLab/blob/main/1%20-%20Burn%20Severity%20Mapping%20with%20LeafMap/EI1%20-%20Wildfire%20Analysis%20Lesson.ipynb)
 
 - **Pipeline & Infrastructure Explorer**  
   A spatial inquiry tool examining pipelines, land ownership, and environmental context.  
