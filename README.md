@@ -1,6 +1,6 @@
 # Alex Sivitskis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/alex-sivitskis-199212bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alex-sivitskis-199212bb)
 [![Website](https://img.shields.io/badge/Website-Google%20Sites-green)](https://sites.google.com/view/alexsivitskis/home)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=JSPkGs0AAAAJ&hl=en)
 [![Upwork](https://img.shields.io/badge/Upwork-Freelance-brightgreen)](https://www.upwork.com/freelancers/~01191ff735995b118c)
