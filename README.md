@@ -9,9 +9,9 @@
 
 ## About
 
-I study the Earth and build tools that help people ask better questions about place. My background spans **Earth sciences, environmental studies, and the humanities**, with field and research experience ranging from **hydrology in Maine** to **geoarchaeology in Oman and Ethiopia**. Today, my work sits at the intersection of **place-based education, geospatial analysis, and open inquiry**. In recent years, I have focused on **applied coding and open-source mapping tools**—using Python, GIS, and web-based visualization to support **authentic investigations**, land-based learning, and decision-making rooted in local context. I am especially interested in tools that help learners see **patterns, boundaries, histories, and relationships** across landscapes.
+I study the Earth and build tools that help people ask better questions about place. My background spans **Earth sciences, environmental studies, and the humanities**, with field and research experience ranging from hydrology in the streams of Maine to geoarchaeology in the mountains of Oman and Ethiopia. Today, my work sits at the intersection of **place-based education, geospatial analysis, and open inquiry**. In recent years, I have focused on **applied coding and open-source mapping tools,** using Python, GIS, and web-based visualization to support authentic investigations, land-based learning, and decision-making rooted in local context. I am especially interested in tools that help learners see **patterns, boundaries, histories, and relationships** across landscapes.
 
-I currently serve as an **Education Research Faculty member and Professional Learning Coach at Teton Science Schools**, where I support educators in designing inquiry-driven, culturally responsive learning experiences connected to place. I care deeply about **inclusive learning environments**, collaborative work, and maintaining a sense of curiosity and lightness—even when working with complex systems.
+I currently serve as an **Education Research Faculty member and Professional Learning Coach at Teton Science Schools**, where I support educators in designing inquiry-driven, culturally responsive learning experiences connected to place. I care deeply about inclusive learning environments, collaborative work, and maintaining a sense of curiosity and lightness—even when working with complex systems.
 
 ---
 
